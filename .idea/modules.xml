@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_bean/spring_bean.iml" filepath="$PROJECT_DIR$/spring_bean/spring_bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_factory/spring_factory.iml" filepath="$PROJECT_DIR$/spring_factory/spring_factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_jdbc/spring_jdbc.iml" filepath="$PROJECT_DIR$/spring_jdbc/spring_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_spring/spring_spring.iml" filepath="$PROJECT_DIR$/spring_spring/spring_spring.iml" />

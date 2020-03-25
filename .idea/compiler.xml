@@ -6,12 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_bean" />
         <module name="spring_factory" />
         <module name="spring_jdbc" />
         <module name="spring_spring" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring_bean" target="1.8" />
       <module name="spring_factory" target="1.8" />
       <module name="spring_jdbc" target="1.8" />
       <module name="spring_spring" target="1.8" />
