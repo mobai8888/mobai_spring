@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8d50334-9c69-48c4-b14f-a4f246a65275" name="Default" comment="spring第一天学习">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/spring_factory.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/java/com/run/dao/IAccountDao.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/java/com/run/dao/impl/AccountImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/java/com/run/factory/BeanFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/java/com/run/service/IAccountService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/java/com/run/service/impl/AccountServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/java/com/run/ui/Client.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_factory/src/main/resources/bean.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_jdbc/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_jdbc/spring_jdbc.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/spring_jdbc/src/main/java/com/run/jdbc/JdbcDemo1.java" />
-    </list>
+    <list default="true" id="c8d50334-9c69-48c4-b14f-a4f246a65275" name="Default" comment="spring第一天学习" />
     <ignored path="$PROJECT_DIR$/spring_jdbc/target/" />
     <ignored path="$PROJECT_DIR$/spring_factory/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -432,12 +418,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585121780208</updated>
-      <workItem from="1585121784616" duration="5843000" />
+      <workItem from="1585121784616" duration="6041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5843000" />
+    <option name="totallyTimeSpent" value="6041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
