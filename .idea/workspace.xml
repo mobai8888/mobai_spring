@@ -27,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <push-targets>
+      <push-target-info target-remote="origin1" target-branch="master" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -418,12 +421,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585121780208</updated>
-      <workItem from="1585121784616" duration="6271000" />
+      <workItem from="1585121784616" duration="6417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6271000" />
+    <option name="totallyTimeSpent" value="6417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
