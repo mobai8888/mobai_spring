@@ -24,6 +24,8 @@
         <option value="$PROJECT_DIR$/spring_annoctionAop/pom.xml" />
         <option value="$PROJECT_DIR$/spring_jdbcTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/spring_ioc_tx_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_tx_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_tx_anno/pom.xml" />
       </list>
     </option>
   </component>
@@ -31,6 +33,7 @@
     <resource url=" http://www.springframework.org/schema/context/spring-context.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/context/spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/aop/spring-aop.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/beans/spring-beans.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/tx/spring-tx.xsd" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
