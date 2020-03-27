@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Proxy" />
         <module name="spring_account" />
         <module name="spring_anno_ioc" />
         <module name="spring_annoioc_without_xml" />
@@ -19,6 +20,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Proxy" target="1.8" />
       <module name="spring_account" target="1.8" />
       <module name="spring_anno_ioc" target="1.8" />
       <module name="spring_annoioc_without_xml" target="1.8" />
