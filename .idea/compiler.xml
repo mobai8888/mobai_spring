@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Proxy" />
         <module name="spring_account" />
+        <module name="spring_adviceType" />
         <module name="spring_anno_ioc" />
         <module name="spring_annoioc_without_xml" />
         <module name="spring_aop" />
@@ -23,6 +24,7 @@
     <bytecodeTargetLevel>
       <module name="Proxy" target="1.8" />
       <module name="spring_account" target="1.8" />
+      <module name="spring_adviceType" target="1.8" />
       <module name="spring_anno_ioc" target="1.8" />
       <module name="spring_annoioc_without_xml" target="1.8" />
       <module name="spring_aop" target="1.8" />
