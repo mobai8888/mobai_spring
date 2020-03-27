@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_ioc_tx_annoction" />
         <module name="spring_ioc_tx_xml" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="spring_ioc_tx_annoction" target="1.8" />
       <module name="spring_ioc_tx_xml" target="1.8" />
     </bytecodeTargetLevel>
   </component>
