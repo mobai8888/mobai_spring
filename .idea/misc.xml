@@ -21,6 +21,9 @@
         <option value="$PROJECT_DIR$/Proxy/pom.xml" />
         <option value="$PROJECT_DIR$/spring_aop/pom.xml" />
         <option value="$PROJECT_DIR$/spring_adviceType/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_annoctionAop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_jdbcTemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_tx_xml/pom.xml" />
       </list>
     </option>
   </component>

@@ -10,13 +10,16 @@
         <module name="spring_account" />
         <module name="spring_adviceType" />
         <module name="spring_anno_ioc" />
+        <module name="spring_annoctionAop" />
         <module name="spring_annoioc_without_xml" />
         <module name="spring_aop" />
         <module name="spring_bean" />
         <module name="spring_DI" />
         <module name="spring_factory" />
         <module name="spring_ioc" />
+        <module name="spring_ioc_tx_xml" />
         <module name="spring_jdbc" />
+        <module name="spring_jdbcTemplate" />
         <module name="spring_spring" />
         <module name="spring_xml_ioc" />
       </profile>
@@ -26,13 +29,16 @@
       <module name="spring_account" target="1.8" />
       <module name="spring_adviceType" target="1.8" />
       <module name="spring_anno_ioc" target="1.8" />
+      <module name="spring_annoctionAop" target="1.8" />
       <module name="spring_annoioc_without_xml" target="1.8" />
       <module name="spring_aop" target="1.8" />
       <module name="spring_bean" target="1.8" />
       <module name="spring_DI" target="1.8" />
       <module name="spring_factory" target="1.8" />
       <module name="spring_ioc" target="1.8" />
+      <module name="spring_ioc_tx_xml" target="1.8" />
       <module name="spring_jdbc" target="1.8" />
+      <module name="spring_jdbcTemplate" target="1.8" />
       <module name="spring_spring" target="1.8" />
       <module name="spring_xml_ioc" target="1.8" />
     </bytecodeTargetLevel>

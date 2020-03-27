@@ -7,12 +7,15 @@
       <module fileurl="file://$PROJECT_DIR$/spring_account/spring_account.iml" filepath="$PROJECT_DIR$/spring_account/spring_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_adviceType/spring_adviceType.iml" filepath="$PROJECT_DIR$/spring_adviceType/spring_adviceType.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_anno_ioc/spring_anno_ioc.iml" filepath="$PROJECT_DIR$/spring_anno_ioc/spring_anno_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_annoctionAop/spring_annoctionAop.iml" filepath="$PROJECT_DIR$/spring_annoctionAop/spring_annoctionAop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_annoioc_without_xml/spring_annoioc_without_xml.iml" filepath="$PROJECT_DIR$/spring_annoioc_without_xml/spring_annoioc_without_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_aop/spring_aop.iml" filepath="$PROJECT_DIR$/spring_aop/spring_aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_bean/spring_bean.iml" filepath="$PROJECT_DIR$/spring_bean/spring_bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_factory/spring_factory.iml" filepath="$PROJECT_DIR$/spring_factory/spring_factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_ioc/spring_ioc.iml" filepath="$PROJECT_DIR$/spring_ioc/spring_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_ioc_tx_xml/spring_ioc_tx_xml.iml" filepath="$PROJECT_DIR$/spring_ioc_tx_xml/spring_ioc_tx_xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_jdbc/spring_jdbc.iml" filepath="$PROJECT_DIR$/spring_jdbc/spring_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_jdbcTemplate/spring_jdbcTemplate.iml" filepath="$PROJECT_DIR$/spring_jdbcTemplate/spring_jdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_spring/spring_spring.iml" filepath="$PROJECT_DIR$/spring_spring/spring_spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_xml_ioc/spring_xml_ioc.iml" filepath="$PROJECT_DIR$/spring_xml_ioc/spring_xml_ioc.iml" />
     </modules>
