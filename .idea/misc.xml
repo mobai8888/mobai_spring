@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -9,11 +12,17 @@
         <option value="$PROJECT_DIR$/spring_jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/spring_factory/pom.xml" />
         <option value="$PROJECT_DIR$/spring_spring/pom.xml" />
-        <option value="$PROJECT_DIR$/spring_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_DI/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_xml_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_anno_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_annoioc_without_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_account/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectResources">
+    <resource url=" http://www.springframework.org/schema/context/spring-context.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/context/spring-context.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/beans/spring-beans.xsd" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
