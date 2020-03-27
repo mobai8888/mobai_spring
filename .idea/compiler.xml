@@ -10,6 +10,7 @@
         <module name="spring_account" />
         <module name="spring_anno_ioc" />
         <module name="spring_annoioc_without_xml" />
+        <module name="spring_aop" />
         <module name="spring_bean" />
         <module name="spring_DI" />
         <module name="spring_factory" />
@@ -24,6 +25,7 @@
       <module name="spring_account" target="1.8" />
       <module name="spring_anno_ioc" target="1.8" />
       <module name="spring_annoioc_without_xml" target="1.8" />
+      <module name="spring_aop" target="1.8" />
       <module name="spring_bean" target="1.8" />
       <module name="spring_DI" target="1.8" />
       <module name="spring_factory" target="1.8" />

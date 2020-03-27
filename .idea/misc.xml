@@ -19,11 +19,13 @@
         <option value="$PROJECT_DIR$/spring_annoioc_without_xml/pom.xml" />
         <option value="$PROJECT_DIR$/spring_account/pom.xml" />
         <option value="$PROJECT_DIR$/Proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_aop/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectResources">
     <resource url=" http://www.springframework.org/schema/context/spring-context.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/context/spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/aop/spring-aop.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="E:/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/schema/beans/spring-beans.xsd" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
