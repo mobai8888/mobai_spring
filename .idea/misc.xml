@@ -26,6 +26,8 @@
         <option value="$PROJECT_DIR$/spring_ioc_tx_xml/pom.xml" />
         <option value="$PROJECT_DIR$/spring_tx_xml/pom.xml" />
         <option value="$PROJECT_DIR$/spring_tx_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_tx_anno_withxml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_txTemplate/pom.xml" />
       </list>
     </option>
   </component>

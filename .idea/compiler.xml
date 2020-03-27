@@ -22,7 +22,9 @@
         <module name="spring_jdbcTemplate" />
         <module name="spring_spring" />
         <module name="spring_tx_anno" />
+        <module name="spring_tx_anno_withxml" />
         <module name="spring_tx_xml" />
+        <module name="spring_txTemplate" />
         <module name="spring_xml_ioc" />
       </profile>
     </annotationProcessing>
@@ -44,7 +46,9 @@
       <module name="spring_spring" target="1.8" />
       <module name="spring_tx" target="1.8" />
       <module name="spring_tx_anno" target="1.8" />
+      <module name="spring_tx_anno_withxml" target="1.8" />
       <module name="spring_tx_xml" target="1.8" />
+      <module name="spring_txTemplate" target="1.8" />
       <module name="spring_xml_ioc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
